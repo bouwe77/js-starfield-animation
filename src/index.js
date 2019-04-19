@@ -9,7 +9,7 @@ var stars = [];
 var size = 0.4;
 var centerX = canvas.width / 2;
 var centerY = canvas.height / 2;
-var speed = 6;
+var speed = 3;
 
 for (var i = 0; i < numStars; i++) {
   stars[i] = new Star();
